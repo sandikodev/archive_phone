@@ -22,3 +22,6 @@ brand: Xiaomi, model: Redmi Note 4
 build id: MRA58K, version: 6.0 Marshmallow (MRA58K) (MIUI8)
 build description: nikel-user 6.0 MRA58K V8.2.1.0.MBFMIDL release-keys
 ```
+
+### bypass
+`https://www.drphone.id/2022/02/cara-mengatasi-hp-xiaomi-note-4-terkunci-akun-mi.html`

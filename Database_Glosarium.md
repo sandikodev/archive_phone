@@ -1,9 +1,18 @@
 ## referensi
 ```
 1. https://gsmclinic.com/
+2. https://www.serviceemmc.com/
+3. https://emmctraining.com/what-is-isp-pinout/
 ```
 
 ## Glosarium
+### eMMC ISP Pinout
+#### pengertian
+In-System Programming (ISP) allows communication to take place with a target chip without the need to remove it. The main advantage of this method is the possibility to communicate with a target chip eMMC or eMCP bypassing the CPU
+
+### ISP Adapter
+#### pengertian
+ISP Adaptor is a hardware ISP tool which provide EMMC devices to connect programmer tool through isp for write dump, read dump, factory reset, security backup and many more functions supported, in meaning if your programmer tool support any function will sure work with like UFi Box,Easy JTAG,Mipi Teste,Medusa Pro, etc.
 
 ### ISP (In-System Programming)
 #### pengertian

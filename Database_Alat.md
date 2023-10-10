@@ -2,11 +2,13 @@
 ```
 {
     nama: "nama alat",
+    type: "jenis alat",
     deskripsi: "kegunaan alat",
     case: ["kasus penggunaan alat"]
 },{
     nama: "ufi box",
-    deskripsi: "flash tool",
+    type: "flash tool",
+    deskripsi: "untuk flashing headless",
     case: ["dump emmc"]
 },
 ```
